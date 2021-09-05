@@ -1,0 +1,67 @@
+/* Global Styles
+---------------------------------------*/
+body {
+    color: #ffffff;
+  }
+img {
+    width: 300px;
+  }
+a {
+    color: #FDD3B6;
+  }
+a:hover {
+    text-decoration: none;
+  }
+h1 {
+  color: #FDD3B6;
+}
+
+  /* Profile
+  ---------------------------------------*/
+header {
+    background: #ADDCCB;
+    color: #ffffff;
+    padding: 10px;
+  }
+
+  /* Projects
+  ---------------------------------------*/
+.projects {
+    background: #DBEBC1;
+    padding: 10px;
+  }
+.projects a {
+  color: #347059;
+}
+
+.projects .btn {
+  background: #347059;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+}
+.projects .btn:hover {
+  background: rgba( 52, 112, 89, 80%);
+}
+  /* Work Experience
+  ---------------------------------------*/
+.work-experience {
+    background: #FDD3B6;
+    padding: 10px;
+  }
+
+  /* Education
+  ---------------------------------------*/
+.education {
+    background: #F7A8A5;
+    padding: 10px;
+  }
+
+  /* Contact Info
+  ---------------------------------------*/
+footer {
+    background: #F48A94;
+    color: #ffffff;
+    padding: 10px;
+  }
